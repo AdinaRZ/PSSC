@@ -1,0 +1,16 @@
+C:\Users\W10\Documents\GitHub\Laborator-PSSC\Lucrarea-05\Exemple\Example.Data\bin\Debug\net8.0\Examples.Data.deps.json
+C:\Users\W10\Documents\GitHub\Laborator-PSSC\Lucrarea-05\Exemple\Example.Data\bin\Debug\net8.0\Examples.Data.dll
+C:\Users\W10\Documents\GitHub\Laborator-PSSC\Lucrarea-05\Exemple\Example.Data\bin\Debug\net8.0\Examples.Data.pdb
+C:\Users\W10\Documents\GitHub\Laborator-PSSC\Lucrarea-05\Exemple\Example.Data\bin\Debug\net8.0\Examples.Domain.dll
+C:\Users\W10\Documents\GitHub\Laborator-PSSC\Lucrarea-05\Exemple\Example.Data\bin\Debug\net8.0\Examples.Domain.pdb
+C:\Users\W10\Documents\GitHub\Laborator-PSSC\Lucrarea-05\Exemple\Example.Data\obj\Debug\net8.0\Examples.Data.csproj.AssemblyReference.cache
+C:\Users\W10\Documents\GitHub\Laborator-PSSC\Lucrarea-05\Exemple\Example.Data\obj\Debug\net8.0\Examples.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\Documents\GitHub\Laborator-PSSC\Lucrarea-05\Exemple\Example.Data\obj\Debug\net8.0\Examples.Data.AssemblyInfoInputs.cache
+C:\Users\W10\Documents\GitHub\Laborator-PSSC\Lucrarea-05\Exemple\Example.Data\obj\Debug\net8.0\Examples.Data.AssemblyInfo.cs
+C:\Users\W10\Documents\GitHub\Laborator-PSSC\Lucrarea-05\Exemple\Example.Data\obj\Debug\net8.0\Examples.Data.csproj.CoreCompileInputs.cache
+C:\Users\W10\Documents\GitHub\Laborator-PSSC\Lucrarea-05\Exemple\Example.Data\obj\Debug\net8.0\Examples.Data.sourcelink.json
+C:\Users\W10\Documents\GitHub\Laborator-PSSC\Lucrarea-05\Exemple\Example.Data\obj\Debug\net8.0\Examples.4D1EA4F2.Up2Date
+C:\Users\W10\Documents\GitHub\Laborator-PSSC\Lucrarea-05\Exemple\Example.Data\obj\Debug\net8.0\Examples.Data.dll
+C:\Users\W10\Documents\GitHub\Laborator-PSSC\Lucrarea-05\Exemple\Example.Data\obj\Debug\net8.0\refint\Examples.Data.dll
+C:\Users\W10\Documents\GitHub\Laborator-PSSC\Lucrarea-05\Exemple\Example.Data\obj\Debug\net8.0\Examples.Data.pdb
+C:\Users\W10\Documents\GitHub\Laborator-PSSC\Lucrarea-05\Exemple\Example.Data\obj\Debug\net8.0\ref\Examples.Data.dll
